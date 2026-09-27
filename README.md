@@ -1,6 +1,10 @@
 # Huaiyu Jia
 
-Academic homepage for [hibara3.top](https://hibara3.top), built on [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
+Academic homepage of Huaiyu Jia.
+
+Website: https://virusLuke3.github.io
+
+Built on [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io).
 
 Edit `_config.yml` for the sidebar, and `_pages/about.md` for the page text.
 
