@@ -18,11 +18,11 @@ Beyond research, I am an enthusiastic participant in hackathons and technical co
 
 # 🔥 News
 
+- *2026.10*: **TxSum** accepted at **EMNLP 2026** (October 24–29). [Paper](https://arxiv.org/abs/2512.06933)
 - *2026.09*: **AlphaOpsBench**: Benchmarking End-to-End Alpha Strategy Operationalization in Prediction Markets. [Paper](https://arxiv.org/abs/2609.31390)
 - *2026.09*: **Unlocking the Forecasting Economy: A Suite of Datasets for the Full Lifecycle of Prediction Market: [Experiments & Analysis]**. [Paper](https://arxiv.org/abs/2604.20421) / [Project](https://www.polymonitor.club/)
-- *2026*: **Towards Event-Aware Forecasting in DeFi** accepted at **KDD 2026**. [Paper](https://arxiv.org/abs/2604.20374)
-- *2026.02*: AlphaForgeBench, a benchmark that asks language models to write executable trading strategies, to appear at **KDD 2026**. [Paper](https://arxiv.org/abs/2602.18481)
-- *2026*: **TxSum** accepted at **EMNLP 2026**. [Paper](https://arxiv.org/abs/2512.06933)
+- *2026.08*: **Towards Event-Aware Forecasting in DeFi** accepted at **KDD 2026** (August 9–13). [Paper](https://arxiv.org/abs/2604.20374)
+- *2026.08*: AlphaForgeBench, a benchmark that asks language models to write executable trading strategies, at **KDD 2026** (August 9–13). [Paper](https://arxiv.org/abs/2602.18481)
 - *2024.11*: **FS2M** published in the *International Journal of Web Information Systems*. [Paper](https://doi.org/10.1108/IJWIS-06-2024-0169)
 
 <span class='anchor' id='publications'></span>
@@ -125,6 +125,7 @@ FS2M: Fuzzy Smart IoT Device Pairing Protocol via Speak to Microphone
 
 # 🛠 Projects
 
+- **[DAO-Simulation](https://github.com/virusLuke3/DAO-Simulation)**. On-chain simulation of DAO governance for Uniswap, Aave, and ENS: token transfers, delegation, Snapshot proposals, and wealth-segmented agents.
 - **[PolyMonitor](https://www.polymonitor.club/)**. A live workspace on the Polymarket lifecycle data: prices, fills, oracle events, and macro context. [Code](https://github.com/virusLuke3/polymonitor)
 - **[AlphaForgeBench](https://github.com/finbrain-lab-hkustgz/AlphaForgeBench)**. Benchmark and backtest harness for language models that synthesize executable trading strategies. [Paper](https://arxiv.org/abs/2602.18481)
 - **[Deep AMM Events](https://github.com/yosen-king/Deep-AMM-Events)**. Code and preprocessed data for event-aware forecasting on four AMM protocols. [Paper](https://arxiv.org/abs/2604.20374)
