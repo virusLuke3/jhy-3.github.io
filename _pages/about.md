@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I'm Huaiyu Jia (贾怀宇), a third-year Ph.D. student in the FinTech Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by Dr. Shuo Sun. Before that, I received my bachelor's degree from the School of Information and Software Engineering at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), where I had the opportunity to work with [Prof. Dajiang Chen](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/20218?yxsh=09).
+Hi, I'm Huaiyu Jia (贾怀宇), a third-year Ph.D. student in the FinTech Thrust at [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/), advised by [Dr. Shuo Sun](https://scholar.google.com/citations?user=kGgWv8IAAAAJ&hl=zh-CN). Before that, I received my bachelor's degree from the School of Information and Software Engineering at [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/), where I had the opportunity to work with [Prof. Dajiang Chen](https://yjsjy.uestc.edu.cn/gmis/jcsjgl/dsfc/dsgrjj/20218?yxsh=09).
 
 My research interests lie primarily in AI for Blockchain (AI4Blockchain). In particular, I am interested in combining artificial intelligence with blockchain systems to analyze complex on-chain data, understand on-chain behaviors, and enable more intelligent and reliable on-chain decision-making and interactions. I am also broadly interested in AI agents, on-chain finance, and autonomous blockchain systems.
 
