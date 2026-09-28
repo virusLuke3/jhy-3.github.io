@@ -146,6 +146,7 @@ FS2M: Fuzzy Smart IoT Device Pairing Protocol via Speak to Microphone
 - **[Polymarket Data Engine](https://github.com/SuperPolyrio/market-data)**. Research-grade infrastructure for reconstructing the Polymarket lifecycle from market creation and fill-level trading to oracle resolution.
 - **[Polymarket Execution Simulator](https://github.com/SuperPolyrio/paper-trading)**. A market-microstructure simulator for studying execution, liquidity, order-book dynamics, and paper-to-live fidelity on Polymarket.
 - **[Polymarket Replay Lab](https://github.com/SuperPolyrio/backtest-lab)**. A reproducible historical replay environment for fill-level, trade-only, and L2 order-book experiments with execution modeling and oracle-aware settlement.
+- **[Polymarket Smart Money](https://github.com/SuperPolyrio/smart-money)**. Evidence-based research on Polymarket wallets, from historical qualification and confirmed trades to verified analysis of market evidence.
 
 <span class='anchor' id='hackathons'></span>
 
