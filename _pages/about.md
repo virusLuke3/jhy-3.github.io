@@ -104,6 +104,20 @@ Zifan Peng, Jingyi Zheng, Yule Liu, **Huaiyu Jia**, Qiming Ye, Jingyu Liu, Xufen
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-text' markdown="1">
+
+DAO-Simulation: Simulation of DAO Using On-chain Data
+
+**Huaiyu Jia**
+
+[**Code**](https://github.com/virusLuke3/DAO-Simulation)
+
+- On-chain simulation of DAO governance for Uniswap, Aave, and ENS.
+- Covers token transfers, delegation, Snapshot proposals, and wealth-segmented agents.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJWIS 2025</div><img src='images/publications/fs2m.png' alt="FS2M" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -125,7 +139,6 @@ FS2M: Fuzzy Smart IoT Device Pairing Protocol via Speak to Microphone
 
 # 🛠 Projects
 
-- **[DAO-Simulation](https://github.com/virusLuke3/DAO-Simulation)**. On-chain simulation of DAO governance for Uniswap, Aave, and ENS: token transfers, delegation, Snapshot proposals, and wealth-segmented agents.
 - **[PolyMonitor](https://www.polymonitor.club/)**. A live workspace on the Polymarket lifecycle data: prices, fills, oracle events, and macro context. [Code](https://github.com/virusLuke3/polymonitor)
 - **[AlphaForgeBench](https://github.com/finbrain-lab-hkustgz/AlphaForgeBench)**. Benchmark and backtest harness for language models that synthesize executable trading strategies. [Paper](https://arxiv.org/abs/2602.18481)
 - **[Deep AMM Events](https://github.com/yosen-king/Deep-AMM-Events)**. Code and preprocessed data for event-aware forecasting on four AMM protocols. [Paper](https://arxiv.org/abs/2604.20374)

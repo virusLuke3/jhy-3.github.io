@@ -1,0 +1,10 @@
+---
+description: Push homepage edits to GitHub after every change
+alwaysApply: true
+---
+
+# Push changes to GitHub
+
+After any edit to this homepage, commit the change and push it to `origin` on `master` without waiting for a separate request.
+
+Do not force-push. Do not skip hooks. Do not commit secrets.
