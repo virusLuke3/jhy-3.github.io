@@ -105,14 +105,12 @@ Zifan Peng, Jingyi Zheng, Yule Liu, **Huaiyu Jia**, Qiming Ye, Jingyu Liu, Xufen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027</div><img src='images/publications/dao.png' alt="DAO-SIM overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/dao.png' alt="DAO-SIM overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 From Anonymous Wallets to Behavioral Agents: A Calibrated Policy Test Bed for DAO Governance
 
 Peizhe Li, **Huaiyu Jia**, Liang Zhang, Shuo Sun
-
-*Under review at ICLR 2027*
 
 [**Code**](https://github.com/virusLuke3/DAO-Simulation)
 
