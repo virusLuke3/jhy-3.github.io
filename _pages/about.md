@@ -19,6 +19,7 @@ Beyond research, I am an enthusiastic participant in hackathons and technical co
 # 🔥 News
 
 - *2026.10*: **TxSum** accepted at **EMNLP 2026** (October 24–29). [Paper](https://arxiv.org/abs/2512.06933)
+- *2026.09*: **From Anonymous Wallets to Behavioral Agents** revised for **ICLR 2027**. [Code](https://github.com/virusLuke3/DAO-Simulation)
 - *2026.09*: **AlphaOpsBench**: Benchmarking End-to-End Alpha Strategy Operationalization in Prediction Markets. [Paper](https://arxiv.org/abs/2609.31390)
 - *2026.09*: **Unlocking the Forecasting Economy: A Suite of Datasets for the Full Lifecycle of Prediction Market: [Experiments & Analysis]**. [Paper](https://arxiv.org/abs/2604.20421) / [Project](https://www.polymonitor.club/)
 - *2026.08*: **Towards Event-Aware Forecasting in DeFi** accepted at **KDD 2026** (August 9–13). [Paper](https://arxiv.org/abs/2604.20374)
@@ -104,17 +105,19 @@ Zifan Peng, Jingyi Zheng, Yule Liu, **Huaiyu Jia**, Qiming Ye, Jingyu Liu, Xufen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/dao.png' alt="DAO-SIM overview" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2027</div><img src='images/publications/dao.png' alt="DAO-SIM overview" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-DAO-Simulation: Simulation of DAO Using On-chain Data
+From Anonymous Wallets to Behavioral Agents: A Calibrated Policy Test Bed for DAO Governance
 
-**Huaiyu Jia**
+Peizhe Li, **Huaiyu Jia**, Liang Zhang, Shuo Sun
+
+*Under review at ICLR 2027*
 
 [**Code**](https://github.com/virusLuke3/DAO-Simulation)
 
-- On-chain simulation of DAO governance for Uniswap, Aave, and ENS.
-- Covers token transfers, delegation, Snapshot proposals, and wealth-segmented agents.
+- DAO-SIM builds heterogeneous behavioral agents from anonymous on-chain transfers, then simulates token flows with profile-level super agents and wallet-level child agents.
+- On more than 3 million Uniswap transactions, it reproduces the whale effect, path dependence, and the rich-get-richer effect, and tests counterfactual governance policies.
 
 </div>
 </div>
