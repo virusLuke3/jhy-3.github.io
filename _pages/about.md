@@ -104,7 +104,8 @@ Zifan Peng, Jingyi Zheng, Yule Liu, **Huaiyu Jia**, Qiming Ye, Jingyu Liu, Xufen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/publications/dao.png' alt="DAO-SIM overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 DAO-Simulation: Simulation of DAO Using On-chain Data
 
