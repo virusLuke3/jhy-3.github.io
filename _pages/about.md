@@ -14,7 +14,7 @@ Hi, I'm Huaiyu Jia (贾怀宇), a third-year Ph.D. student in the FinTech Thrust
 
 My research interests lie primarily in AI for Blockchain (AI4Blockchain). In particular, I am interested in combining artificial intelligence with blockchain systems to analyze complex on-chain data, understand on-chain behaviors, and enable more intelligent and reliable on-chain decision-making and interactions. I am also broadly interested in AI agents, on-chain finance, and autonomous blockchain systems.
 
-Beyond research, I am an enthusiastic participant in hackathons and technical competitions. I especially enjoy turning research ideas into working systems and interactive prototypes.
+Beyond research, I actively participate in blockchain and AI hackathons. I particularly enjoy turning research ideas into working systems, especially prototypes that connect AI agents with on-chain data, payments, and executable blockchain workflows.
 
 # 🔥 News
 
@@ -146,6 +146,22 @@ FS2M: Fuzzy Smart IoT Device Pairing Protocol via Speak to Microphone
 - **[PolyMonitor](https://www.polymonitor.club/)**. A live workspace on the Polymarket lifecycle data: prices, fills, oracle events, and macro context. [Code](https://github.com/virusLuke3/polymonitor)
 - **[AlphaForgeBench](https://github.com/finbrain-lab-hkustgz/AlphaForgeBench)**. Benchmark and backtest harness for language models that synthesize executable trading strategies. [Paper](https://arxiv.org/abs/2602.18481)
 - **[Deep AMM Events](https://github.com/yosen-king/Deep-AMM-Events)**. Code and preprocessed data for event-aware forecasting on four AMM protocols. [Paper](https://arxiv.org/abs/2604.20374)
+
+<span class='anchor' id='hackathons'></span>
+
+# 🏆 Hackathon Projects
+
+- **[POT-402 Gateway](https://github.com/virusLuke3/pot-402-gateway)** — *Portaldot Online Mini Hackathon S1*.  
+  A Portaldot-native HTTP 402 gateway that turns native POT transfers into verifiable access receipts for pay-per-call APIs. The prototype demonstrates a complete challenge → payment → receipt verification → premium API unlock flow, and exposes the payment proof as a reusable primitive for downstream services.
+
+- **[OmniYield](https://github.com/virusLuke3/OmniYield)** — *LI.FI Vibeathon*.  
+  A multi-agent framework for cross-chain yield monitoring and execution that combines on-chain market sensing, risk-adjusted yield selection, and LI.FI MCP/quote routing. The system separates sensing, decision-making, and execution so that cross-chain rebalancing decisions can be explained and previewed before transactions are broadcast.
+
+- **[SkillTip](https://github.com/virusLuke3/skillTip)** — *Hackathon Galactica — WDK / Tipping Bot track*.  
+  An autonomous reward agent that discovers reusable AI skills, evaluates their utility and reuse signals, and settles rewards in Sepolia USDT through Tether WDK. It combines policy-constrained AI judging, a self-custodial treasury, pending-claim handling, and an auditable on-chain payout ledger.
+
+- **[AutoScholar](https://github.com/virusLuke3/x402-research)** — *Stacks x402 hackathon project*.  
+  A research molbot network that quotes premium research workflows, issues machine-readable x402 payment challenges, verifies Stacks testnet settlement, and releases both human-readable research dossiers and structured handoff packets for downstream agents.
 
 <span class='anchor' id='education'></span>
 

@@ -8,5 +8,8 @@ main:
   - title: "Projects"
     url: "/#projects"
 
+  - title: "Hackathons"
+    url: "/#hackathons"
+
   - title: "Education"
     url: "/#education"
