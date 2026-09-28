@@ -164,6 +164,12 @@ FS2M: Fuzzy Smart IoT Device Pairing Protocol via Speak to Microphone
 - **[AutoScholar](https://github.com/virusLuke3/x402-research)** — *Stacks x402 hackathon project*.  
   A research molbot network that quotes premium research workflows, issues machine-readable x402 payment challenges, verifies Stacks testnet settlement, and releases both human-readable research dossiers and structured handoff packets for downstream agents.
 
+- **[PolySignal](https://github.com/virusLuke3/polyVis)** — *Reactive Network hackathon*.  
+  An on-chain whale-alert path for Polymarket. A Polygon trade is relayed to a Sepolia origin contract, evaluated by a Reactive Contract on Lasna, and recorded on a Sepolia destination contract without a centralized keeper.
+
+- **[OH-ARP](https://github.com/virusLuke3/OH-ARP)** — *Octant hackathon*.  
+  A Uniswap v4 hook that routes stablecoin liquidity sitting outside the active range into an Octant-style vault, returning most of the yield to liquidity providers and sending a share to public goods.
+
 <span class='anchor' id='education'></span>
 
 # 📖 Education
