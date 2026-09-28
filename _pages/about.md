@@ -143,9 +143,9 @@ FS2M: Fuzzy Smart IoT Device Pairing Protocol via Speak to Microphone
 - **[PolyMonitor](https://www.polymonitor.club/)**. A live workspace on the Polymarket lifecycle data: prices, fills, oracle events, and macro context. [Code](https://github.com/virusLuke3/polymonitor)
 - **[AlphaForgeBench](https://github.com/finbrain-lab-hkustgz/AlphaForgeBench)**. Benchmark and backtest harness for language models that synthesize executable trading strategies. [Paper](https://arxiv.org/abs/2602.18481)
 - **[Deep AMM Events](https://github.com/finbrain-lab-hkustgz/Deep-AMM-Events)**. Code and preprocessed data for event-aware forecasting on four AMM protocols. [Poster](https://finbrain-lab-hkustgz.github.io/Deep-AMM-Events/) / [Paper](https://arxiv.org/abs/2604.20374)
-- **[Market Data](https://github.com/SuperPolyrio/market-data)**. Acquisition engine for Polymarket markets, OrderFilled trades, and oracle events.
-- **[Paper Trading](https://github.com/SuperPolyrio/paper-trading)**. Polymarket paper-trading system with taker and maker execution, accounts, risk, and a public API.
-- **[Backtest Lab](https://github.com/SuperPolyrio/backtest-lab)**. Replay lab for Polymarket order-fill, trade-only, and L2 backtests.
+- **[Polymarket Data Engine](https://github.com/SuperPolyrio/market-data)**. Research-grade infrastructure for reconstructing the Polymarket lifecycle from market creation and fill-level trading to oracle resolution.
+- **[Polymarket Execution Simulator](https://github.com/SuperPolyrio/paper-trading)**. A market-microstructure simulator for studying execution, liquidity, order-book dynamics, and paper-to-live fidelity on Polymarket.
+- **[Polymarket Replay Lab](https://github.com/SuperPolyrio/backtest-lab)**. A reproducible historical replay environment for fill-level, trade-only, and L2 order-book experiments with execution modeling and oracle-aware settlement.
 
 <span class='anchor' id='hackathons'></span>
 
