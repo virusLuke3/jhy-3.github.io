@@ -18,32 +18,48 @@ Beyond research, I am an enthusiastic participant in hackathons and technical co
 
 # 🔥 News
 
-- *2026.04*: Preprint on a full-lifecycle dataset for Polymarket, from market creation through oracle settlement. [Paper](https://arxiv.org/abs/2604.20421) / [Project](https://www.polymonitor.club/)
-- *2026.04*: Preprint on event-aware forecasting over 8.9 million on-chain events from Pendle, Uniswap v3, Aave, and Morpho. [Paper](https://arxiv.org/abs/2604.20374)
+- *2026.09*: **AlphaOpsBench**: Benchmarking End-to-End Alpha Strategy Operationalization in Prediction Markets. [Paper](https://arxiv.org/abs/2609.31390)
+- *2026.09*: **Unlocking the Forecasting Economy: A Suite of Datasets for the Full Lifecycle of Prediction Market: [Experiments & Analysis]**. [Paper](https://arxiv.org/abs/2604.20421) / [Project](https://www.polymonitor.club/)
+- *2026*: **Towards Event-Aware Forecasting in DeFi** accepted at **KDD 2026**. [Paper](https://arxiv.org/abs/2604.20374)
 - *2026.02*: AlphaForgeBench, a benchmark that asks language models to write executable trading strategies, to appear at **KDD 2026**. [Paper](https://arxiv.org/abs/2602.18481)
-- *2025.12*: TxSum preprint on user-centered explanations of Ethereum transactions. [Paper](https://arxiv.org/abs/2512.06933)
+- *2026*: **TxSum** accepted at **EMNLP 2026**. [Paper](https://arxiv.org/abs/2512.06933)
 - *2024.11*: **FS2M** published in the *International Journal of Web Information Systems*. [Paper](https://doi.org/10.1108/IJWIS-06-2024-0169)
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publications/alphaops.png' alt="AlphaOpsBench" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+AlphaOpsBench: Benchmarking End-to-End Alpha Strategy Operationalization in Prediction Markets
+
+**Huaiyu Jia**, Mingxuan Zhao, Jincheng Gao, Zifan Peng, Wentao Zhang, Siguang Li, Shuo Sun
+
+[**Paper**](https://arxiv.org/abs/2609.31390)
+
+- Tests whether a language model can turn a coarse prediction-market idea into an auditable executable program.
+- Built on 581 source-preserving strategy records and a lifecycle-scale Polymarket dataset, comparing direct generation with a staged design-then-code protocol.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publications/forecasting.png' alt="Forecasting Economy" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Unlocking the Forecasting Economy: A Suite of Datasets for the Full Lifecycle of Prediction Market
+Unlocking the Forecasting Economy: A Suite of Datasets for the Full Lifecycle of Prediction Market: [Experiments & Analysis]
 
 **\*Huaiyu Jia**, \*Luofeng Zhou, Wentao Zhang, Lin William Cong, Siguang Li, Shuo Sun
 
 [**Paper**](https://arxiv.org/abs/2604.20421) | [**Code**](https://github.com/virusLuke3/polymonitor) | [**Project**](https://www.polymonitor.club/)
 
-- A continuously maintained relational dataset of Polymarket, covering market metadata, fill-level trades, and oracle resolution from October 2020 to March 2026.
-- The public interface is [PolyMonitor](https://www.polymonitor.club/). Huaiyu Jia and Luofeng Zhou contributed equally.
+- A continuously synchronized Polymarket lifecycle dataset from October 2020 onward: 3.29 million markets, 1.90 billion fills, and 21 million oracle events.
+- Experiments cover NBA calibration, CPI expectation reconstruction, and resolution prediction. The public interface is [PolyMonitor](https://www.polymonitor.club/). Huaiyu Jia and Luofeng Zhou contributed equally.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/publications/amm.png' alt="Event-aware AMM forecasting" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/publications/amm.png' alt="Event-aware AMM forecasting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Towards Event-Aware Forecasting in DeFi: Insights from On-chain Automated Market Maker Protocols
@@ -73,7 +89,7 @@ Wentao Zhang, Mingxuan Zhao, Jincheng Gao, Jieshun You, **Huaiyu Jia**, Yilei Zh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/publications/txsum.png' alt="TxSum" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/publications/txsum.png' alt="TxSum" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 TxSum: User-Centered Ethereum Transaction Understanding with Micro-Level Semantic Grounding
@@ -88,7 +104,8 @@ Zifan Peng, Jingyi Zheng, Yule Liu, **Huaiyu Jia**, Qiming Ye, Jingyu Liu, Xufen
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJWIS 2025</div><img src='images/publications/fs2m.png' alt="FS2M" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 FS2M: Fuzzy Smart IoT Device Pairing Protocol via Speak to Microphone
 
@@ -117,4 +134,4 @@ FS2M: Fuzzy Smart IoT Device Pairing Protocol via Speak to Microphone
 # 📖 Education
 
 - *2024.09 - Present*, **Ph.D. in FinTech**, [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/).
-- **B.Eng.**, School of Information and Software Engineering, [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
+- *2020.09 - 2024.06*, **B.Eng.**, School of Information and Software Engineering, [University of Electronic Science and Technology of China](https://en.uestc.edu.cn/).
