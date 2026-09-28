@@ -19,7 +19,6 @@ Beyond research, I actively participate in blockchain and AI hackathons. I parti
 # 🔥 News
 
 - *2026.10*: **TxSum** accepted at **EMNLP 2026** (October 24–29). [Paper](https://arxiv.org/abs/2512.06933)
-- *2026.09*: **From Anonymous Wallets to Behavioral Agents** revised for **ICLR 2027**. [Code](https://github.com/virusLuke3/DAO-Simulation)
 - *2026.09*: **AlphaOpsBench**: Benchmarking End-to-End Alpha Strategy Operationalization in Prediction Markets. [Paper](https://arxiv.org/abs/2609.31390)
 - *2026.09*: **Unlocking the Forecasting Economy: A Suite of Datasets for the Full Lifecycle of Prediction Market: [Experiments & Analysis]**. [Paper](https://arxiv.org/abs/2604.20421) / [Project](https://www.polymonitor.club/)
 - *2026.08*: **Towards Event-Aware Forecasting in DeFi** accepted at **KDD 2026** (August 9–13). [Paper](https://arxiv.org/abs/2604.20374)
