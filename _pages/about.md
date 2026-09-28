@@ -20,9 +20,9 @@ Beyond research, I actively participate in blockchain and AI hackathons. I parti
 
 - *2026.10*: **TxSum** accepted at **EMNLP 2026** (October 24–29). [Paper](https://arxiv.org/abs/2512.06933)
 - *2026.09*: **AlphaOpsBench**: Benchmarking End-to-End Alpha Strategy Operationalization in Prediction Markets. [Paper](https://arxiv.org/abs/2609.31390)
-- *2026.09*: **Unlocking the Forecasting Economy: A Suite of Datasets for the Full Lifecycle of Prediction Market: [Experiments & Analysis]**. [Paper](https://arxiv.org/abs/2604.20421) / [Project](https://www.polymonitor.club/)
 - *2026.08*: **Towards Event-Aware Forecasting in DeFi** accepted at **KDD 2026** (August 9–13). [Paper](https://arxiv.org/abs/2604.20374)
 - *2026.08*: AlphaForgeBench, a benchmark that asks language models to write executable trading strategies, at **KDD 2026** (August 9–13). [Paper](https://arxiv.org/abs/2602.18481)
+- *2026.04*: **Unlocking the Forecasting Economy: A Suite of Datasets for the Full Lifecycle of Prediction Market: [Experiments & Analysis]**. [Paper](https://arxiv.org/abs/2604.20421) / [Project](https://www.polymonitor.club/)
 - *2024.11*: **FS2M** published in the *International Journal of Web Information Systems*. [Paper](https://doi.org/10.1108/IJWIS-06-2024-0169)
 
 <span class='anchor' id='publications'></span>
